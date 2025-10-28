@@ -32,7 +32,7 @@ The following **stretch** features are implemented:
 
 ## Video Walkthrough
 
-![](TableDemoVideo2.gif.mp4)
+![](TableViewDemoVideo.gif)
 
 ---
 
